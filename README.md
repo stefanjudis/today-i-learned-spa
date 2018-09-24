@@ -31,6 +31,8 @@ This project can be used without files on any computer simply by configuring Con
 
 ### Setup of the project for local development
 
+The setup flow is also described in [a quick YouTube video](https://www.youtube.com/watch?v=DSxGa6uVtm4&index=2&list=PLAaQpb7XfX3Cx2TfuF0hE1Fql9BswjM3b).
+
 ```
 $ git clone git@github.com:stefanjudis/today-i-learned-spa.git
 $ cd today-i-learned
