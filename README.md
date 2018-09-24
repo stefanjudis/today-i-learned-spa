@@ -1,4 +1,4 @@
-# Today I learned (as static site)
+# Today I learned (as a Single Page Application)
 
 or ... a **"Netlify Contentful React Static Site example"**
 
@@ -25,14 +25,14 @@ Netlify enables an all-in-one workflow that combines global deployment, continuo
 
 ## Project setup and initial deploy using the Netlify Deploy Button
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/stefanjudis/today-i-learned)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/stefanjudis/today-i-learned-spa)
 
 This project can be used without files on any computer simply by configuring Contentful and Netlify. The tutorial is [included in the project itself](https://today-i-learned.netlify.com/tutorial/). Go there and have a look in case you have any questions
 
 ### Setup of the project for local development
 
 ```
-$ git clone git@github.com:stefanjudis/today-i-learned.git
+$ git clone git@github.com:stefanjudis/today-i-learned-spa.git
 $ cd today-i-learned
 $ npm i
 $ mv .env.sample .env
