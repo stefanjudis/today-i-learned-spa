@@ -1,6 +1,6 @@
 # Today I learned (as a Single Page Application)
 
-or ... a **"Netlify Contentful React Static Site example"**
+or ... a **"Netlify Contentful React example"**
 
 ![The Today I learned site](./screenshot.png)
 
