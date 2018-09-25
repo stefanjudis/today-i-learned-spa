@@ -22,9 +22,5 @@
   "devDependencies": {
     "contentful-cli": "^0.16.1",
     "react-scripts": "1.1.4"
-  },
-  "reactSnap": {
-    "cacheAjaxRequests": true,
-    "preconnectThirdParty": false
   }
 }
